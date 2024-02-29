@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BenjaminGuajardo/random-str-msgbg.git"
+    "url": "git+https://github.com/benjasky17/random-str-msgbg.git"
   },
   "keywords": [],
   "author": "Benjamin Guajardo <benja.guajardo0608@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BenjaminGuajardo/random-str-msgbg/issues"
+    "url": "https://github.com/benjasky17/random-str-msgbg/issues"
   },
-  "homepage": "https://github.com/BenjaminGuajardo/random-str-msgbg#readme",
+  "homepage": "https://github.com/benjasky17/random-str-msgbg#readme",
   "bin": {
     "random-str-msgbg": "./bin/global.js"
   },
