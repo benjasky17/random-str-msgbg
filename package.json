@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msgbg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminGuajardo/random-str-msgbg.git"
+  },
+  "keywords": [],
+  "author": "Benjamin Guajardo <benja.guajardo0608@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenjaminGuajardo/random-str-msgbg/issues"
+  },
+  "homepage": "https://github.com/BenjaminGuajardo/random-str-msgbg#readme",
+  "bin": {
+    "random-str-msgbg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
